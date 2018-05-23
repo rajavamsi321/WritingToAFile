@@ -1,0 +1,10 @@
+C:\Users\pavan\source\repos\WritingToAFile\WritingToAFile\bin\Debug\WritingToAFile.exe.config
+C:\Users\pavan\source\repos\WritingToAFile\WritingToAFile\bin\Debug\WritingToAFile.exe
+C:\Users\pavan\source\repos\WritingToAFile\WritingToAFile\bin\Debug\WritingToAFile.pdb
+C:\Users\pavan\source\repos\WritingToAFile\WritingToAFile\obj\Debug\WritingToAFile.csprojAssemblyReference.cache
+C:\Users\pavan\source\repos\WritingToAFile\WritingToAFile\obj\Debug\WritingToAFile.Form1.resources
+C:\Users\pavan\source\repos\WritingToAFile\WritingToAFile\obj\Debug\WritingToAFile.Properties.Resources.resources
+C:\Users\pavan\source\repos\WritingToAFile\WritingToAFile\obj\Debug\WritingToAFile.csproj.GenerateResource.cache
+C:\Users\pavan\source\repos\WritingToAFile\WritingToAFile\obj\Debug\WritingToAFile.csproj.CoreCompileInputs.cache
+C:\Users\pavan\source\repos\WritingToAFile\WritingToAFile\obj\Debug\WritingToAFile.exe
+C:\Users\pavan\source\repos\WritingToAFile\WritingToAFile\obj\Debug\WritingToAFile.pdb
